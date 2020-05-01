@@ -16,7 +16,7 @@ Planetarium is an ambitious project that aims to build a astrophysical and exobi
 
 **Jorge Siqueira** - [@jorgsiq](https://github.com/jorgsiq)
 
-See also the list of [contributors](https://github.com/jorgsiq/Planetarium/graphs/contributors) who participated in this project
+See also the list of [contributors](https://github.com/jorgsiq/planetarium/graphs/contributors) who participated in this project
 
 ## License
 
