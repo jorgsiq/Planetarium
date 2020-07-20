@@ -1,7 +1,7 @@
 ![](header.png)
 
 
-Planetarium is an ambitious project that aims to build a astrophysical and exobiological engine for procedural generation of biomes, planets, systems and galaxies for scientific study, simulation and exploration
+Planetarium is an ambitious project that aims to build an astrophysical and exobiological engine for procedural generation of biomes, planets, systems and galaxies for scientific study, simulation and exploration
 
 
 ## Built With
