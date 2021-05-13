@@ -8,7 +8,8 @@ Planetarium is an ambitious project that aims to build an astrophysical and exob
 
 ## Built With
 
-[Unity Engine](https://unity.com/) - C# Language
+* [Unity Engine](https://unity.com/) 
+* C#
 
 ## Last Version
 
