@@ -13,7 +13,7 @@ Planetarium is an ambitious project that aims to build an astrophysical and exob
 
 ## Last Version
 
-**May 2019 / 0.1 Version** includes Newton's law of universal gravitation, Kepler's laws and the first stable interface
+**Nov 2018 / 0.1 Version** includes Newton's law of universal gravitation, Kepler's laws and the first stable interface
 
 ## Authors
 
