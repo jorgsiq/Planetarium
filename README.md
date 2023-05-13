@@ -1,6 +1,6 @@
 ![](header.png)
 
-[Learn More](https://jorgesiqueira.com/post/planetarium)
+[LEARN MORE](https://jorgesiqueira.com/post/planetarium)
 
 ## Built With
 
