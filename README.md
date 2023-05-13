@@ -1,5 +1,3 @@
-![](header.png)
-
 [LEARN MORE](https://jorgesiqueira.com/post/planetarium)
 
 ## Built With
