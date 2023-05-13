@@ -1,9 +1,6 @@
 ![](header.png)
 
-
-Planetarium is an ambitious project that aims to build an astrophysical and exobiological engine for procedural generation of biomes, planets, systems and galaxies for scientific study, simulation and exploration. Check today the interface demonstration. <br>
-* <a href="https://github.com/jorgsiq/planetarium/releases/tag/V0.5">(Setup Serial Key)</a> 
-
+[Learn More](https://jorgesiqueira.com/post/planetarium)
 
 ## Built With
 
@@ -12,7 +9,7 @@ Planetarium is an ambitious project that aims to build an astrophysical and exob
 
 ## Last Version
 
-**Nov 2018 / 0.1 Version** includes Newton's law of universal gravitation, Kepler's laws and the first working interface
+**Nov 2018
 
 ## Authors
 
